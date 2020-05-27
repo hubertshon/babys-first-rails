@@ -1,0 +1,5 @@
+{
+  message: "Hello there!",
+  random: @random,
+  favorite_lang: @favorite_lang
+}
